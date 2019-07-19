@@ -1,0 +1,12 @@
+.price{
+  font-size: 40rpx;
+  color: #000;
+}
+.image{
+  width: 200rpx; 
+  height: 200rpx
+}
+.num{
+  font-size: 20rpx;
+  color:#8f7373c0
+}

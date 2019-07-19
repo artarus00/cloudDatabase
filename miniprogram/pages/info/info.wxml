@@ -1,0 +1,6 @@
+<view wx:for="{{array}}" wx:key="*this" >
+<text class="num">{{item.num}}</text>
+<image src="{{item.url}}" class="image"></image>
+<text class="price">金额:￥{{Fix.toFix(item.price)}}</text>
+</view>
+<wxs module="Fix" src="info.wxs"></wxs>

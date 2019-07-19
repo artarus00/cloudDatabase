@@ -1,0 +1,10 @@
+/* pages/complex/complex.wxss */
+.primary{
+  color:#fff;background-color:#4b0;border:1px solid #4b0
+}
+.danger{
+  color:#fff;background-color:#f44;border:1px solid #f44
+}
+.warning{
+  color:#fff;background-color:#ff976a;border:1px solid #ff976a
+}

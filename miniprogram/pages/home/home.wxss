@@ -1,0 +1,6 @@
+.primary-1{
+  color:#fff;background-color:#4b0;border:1px solid #fff
+}
+.primary-2{
+  color:#4b0;background-color:#fff;border:1px solid #fff
+}

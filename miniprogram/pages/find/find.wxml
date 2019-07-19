@@ -1,0 +1,4 @@
+<view>
+ <button class="primary">简单查询</button>
+ <button class="danger">复杂查询</button>
+</view>
